@@ -75,6 +75,7 @@ strong{
 .apresentacao__conteudo__lista{
     font-size: 1.25rem;
     display: flex;
+    flex-direction: column;
     gap: 25px;
     font-family: var(--fonte-secundaria);
     list-style-type:none;
